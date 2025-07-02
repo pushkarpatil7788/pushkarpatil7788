@@ -19,7 +19,7 @@
 
 <h3 align="center">
   <a href="https://cbp.io">Visit my personal homepage
-    <img src="https://pushkarpatil7788.github.io" alt="Visit homepage" />
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" />
   </a>
 </h3>
 
